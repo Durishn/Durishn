@@ -21,12 +21,12 @@
 
 
 ---
-
+<!-- Code utilized from @anuraghazra: https://github.com/anuraghazra/github-readme-stats-->
 <img align="left" alt="Nic Durish's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DurishN&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DurishN&layout=compact&hide_border=true&count_private=false)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DurishN&hide_border=true&count_private=false)](https://github.com/anuraghazra/github-readme-stats)
 
-
+<!-- Variable definitions -->
 [website]: https://nicdurish.ca
 [email]: mailto:n.durish@gmail.com
 [twitter]: https://twitter.com/durishn
