@@ -22,6 +22,8 @@
 [<img align="left" alt="NicDurish | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
+<br />
+<br />
 
 <a href='https://www.buymeacoffee.com/nicdurish' target='_blank'><img height='46' style='border:0px;height:46px;' src='https://az743702.vo.msecnd.net/cdn/kofi1.png?v=0' border='0' alt='Buy Me a Coffee' /></a>
 
