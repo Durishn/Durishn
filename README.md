@@ -1,6 +1,6 @@
 ## Hi there, I'm [Nic][website] 👋
 
-- 🌐 Jr. Webmaster @ The City of Guelph
+- 🌐 Web Developer / Web Analyst
 - 🎓 Univ. of Guelph Graduate: MSc. Computer Science (HCI)
 - 🤖 Automation and Web Enthusiast
 - 🐔🐶 Chicken & Doggo Dad
