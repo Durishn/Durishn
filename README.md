@@ -1,4 +1,4 @@
-## Hi there, I'm [Nic][website] 👋
+# Hi there, I'm [Nic][https://nicdurish.ca] 👋
 
 - 🌐 Web Developer / Web Analyst
 - 🎓 Univ. of Guelph Graduate: MSc. Computer Science (HCI)
