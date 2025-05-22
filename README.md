@@ -1,19 +1,15 @@
 # Hi there, I'm [Nic](https://nicdurish.ca) 👋
 
-- 🌐 Web Developer / Web Analyst
+- 🌐 Software Systems Architect & Digital Analyst
 - 🎓 Univ. of Guelph Graduate: MSc. Computer Science (HCI)
 - 🤖 Automation and Web Enthusiast
-- 🐔🐶 Chicken & Doggo Dad
-- 👩‍❤️‍👨 Husband
+- 👩‍❤️‍👨🐶 Husband & Doggo Dad
 - 🛠 Handyman-in-training / Aspiring-Tinkerer
 
 <p align="center">
-  <a  href="https://nicdurish.ca"><img src="https://img.shields.io/badge/Website--_.svg?style=social&logo=osano" alt="Website"></a>
-  <a href="mailto:mail@nicdurish.ca"><img src="https://img.shields.io/badge/Mail--_.svg?style=social&logo=mail.ru" alt="eMail"></a>
-  <a href="https://github.com/DurishN"><img src="https://img.shields.io/badge/GitHub--_.svg?style=social&logo=github" alt="GitHub"></a>
-	<a href="https://twitter.com/DurishN"><img src="https://img.shields.io/badge/Twitter--_.svg?style=social&logo=twitter" alt="Twitter"></a>
+	<a  href="https://nicdurish.ca"><img src="https://img.shields.io/badge/Website--_.svg?style=social&logo=osano" alt="Website"></a>
+	<a href="https://github.com/DurishN"><img src="https://img.shields.io/badge/GitHub--_.svg?style=social&logo=github" alt="GitHub"></a>
 	<a href="https://www.linkedin.com/in/nicdurish"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
-  <a href="https://www.buymeacoffee.com/nicdurish"><img src="https://img.shields.io/badge/Donate--_.svg?style=social&logo=buy-me-a-coffee" alt="Buy Me A Coffee"></a>
 </p>
 
 
